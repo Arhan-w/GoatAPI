@@ -1,0 +1,1 @@
+- **docs(routing):** LKGP strategy copy now states provider-level stickiness and the explicit rules fallback instead of promising per-target pinning ([#11555](https://github.com/diegosouzapw/GoatAPI/pull/11555))

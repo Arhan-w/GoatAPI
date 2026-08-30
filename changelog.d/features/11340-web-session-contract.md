@@ -1,0 +1,1 @@
+- **feat(providers):** publish a management-authenticated versioned web-session credential contract from GoatAPI's canonical browser credential metadata ([#11340](https://github.com/diegosouzapw/GoatAPI/pull/11340)) — thanks @Zartharas

@@ -1,0 +1,1 @@
+- **fix(socks):** `Agent.connectTimeout` now bounds both SOCKS handshake and TLS connect, and `family === null` no longer falls back to `fetch-socks` ([#11842](https://github.com/diegosouzapw/GoatAPI/pull/11842))

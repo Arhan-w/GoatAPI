@@ -1,0 +1,18 @@
+export const OMNIROUTE_RESPONSE_HEADERS = {
+  cache: "X-GoatAPI-Cache",
+  cacheHit: "X-GoatAPI-Cache-Hit",
+  cacheLatency: "X-GoatAPI-Cache-Latency",
+  compression: "X-GoatAPI-Compression",
+  costSaved: "X-GoatAPI-Cost-Saved",
+  decision: "X-GoatAPI-Decision",
+  fallbackAttempts: "X-GoatAPI-Fallback-Attempts",
+  latencyMs: "X-GoatAPI-Latency-Ms",
+  model: "X-GoatAPI-Model",
+  progress: "X-GoatAPI-Progress",
+  provider: "X-GoatAPI-Provider",
+  requestId: "X-GoatAPI-Request-Id",
+  responseCost: "X-GoatAPI-Response-Cost",
+  tokensIn: "X-GoatAPI-Tokens-In",
+  tokensOut: "X-GoatAPI-Tokens-Out",
+  version: "X-GoatAPI-Version",
+} as const;

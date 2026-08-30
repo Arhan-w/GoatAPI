@@ -1,0 +1,1 @@
+- **fix(cli):** keep the global GoatAPI server `--base-url` separate from provider-node `--endpoint` values in add, update, and validate commands ([#11860](https://github.com/diegosouzapw/GoatAPI/pull/11860)) — thanks @pacocartones

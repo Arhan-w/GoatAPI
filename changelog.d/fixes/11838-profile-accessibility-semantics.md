@@ -1,0 +1,1 @@
+- **fix(dashboard):** Expose Profile loading, errors, page structure, and XP progress to assistive technologies ([#11838](https://github.com/diegosouzapw/GoatAPI/pull/11838)) — thanks @pacocartones

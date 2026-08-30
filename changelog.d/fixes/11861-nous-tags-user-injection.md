@@ -1,0 +1,1 @@
+- **fix(provider/nous):** inject required user= tag into Nous Research inference requests to resolve upstream 400 "missing tags" error ([#11861](https://github.com/diegosouzapw/GoatAPI/issues/11861)) — thanks @Karan825

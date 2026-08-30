@@ -1,0 +1,1 @@
+- **feat(nodejs):** add `5dive` as a `configure` target — `goatapi configure 5dive` / `goatapi setup-5dive` write a 5dive auth profile that points an agent fleet's `claude` seats at GoatAPI, with the root-only write, the loopback-vs-`https` endpoint rule and the per-seat model pin handled explicitly ([#11852](https://github.com/diegosouzapw/GoatAPI/pull/11852))

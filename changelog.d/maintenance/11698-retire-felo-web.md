@@ -1,0 +1,1 @@
+- **chore(providers):** retire the Felo Web provider while its GPL-derived provenance remains on licensing HOLD ([#11698](https://github.com/diegosouzapw/GoatAPI/pull/11698)) — stale runtime and database references now fail closed while existing connection, lease, and usage history remains preserved for auditability.

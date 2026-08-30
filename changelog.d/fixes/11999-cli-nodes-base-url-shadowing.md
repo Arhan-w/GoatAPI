@@ -1,0 +1,1 @@
+- **fix(cli):** support `--base-url` alongside `--endpoint` in `goatapi nodes add`, `update`, and `validate` subcommands to prevent global `--base-url` shadowing issues ([#11999](https://github.com/diegosouzapw/GoatAPI/issues/11999)).
