@@ -28,17 +28,13 @@
 <br/>
 
 <div align="center">
-
-<h3>
-
-⭐ Star the repo if OMNIROUTE helped you save money and make your work easier.
-
-</h3>
-
-[![Stars](https://img.shields.io/github/stars/diegosouzapw/GoatAPI?style=social)](https://github.com/diegosouzapw/GoatAPI)
-<a href="https://trendshift.io/repositories/23589" target="_blank"><img src="https://trendshift.io/api/badge/repositories/23589" alt="diegosouzapw%2FGoatAPI | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
-[![Star History Rank](https://api.star-history.com/badge?repo=diegosouzapw/GoatAPI&theme=dark)](https://www.star-history.com/diegosouzapw/goatapi)
-[![olud.ai](https://olud.ai/badge.php?tool=diegosouzapw-goatapi)](https://olud.ai/project/diegosouzapw-goatapi.html)
+  <h3>
+    ⭐ Star the repo if GoatAPI helped you save money and make your work easier.
+  </h3>
+  <a href="https://github.com/Arhan-w/GoatAPI"><img src="https://img.shields.io/github/stars/Arhan-w/GoatAPI?style=social" alt="Stars"></a>
+  <a href="https://trendshift.io/repositories/Arhan-w/GoatAPI" target="_blank"><img src="https://trendshift.io/api/badge/repositories/Arhan-w/GoatAPI" alt="Arhan-w/GoatAPI | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+  <img src="https://api.star-history.com/badge?repo=Arhan-w/GoatAPI&theme=dark" alt="Star History Rank">
+</div>
 
 ### 💬 Join the community
 
@@ -1177,14 +1173,14 @@ Métricas canônicas em 2026-08-24: **1.029 vídeos únicos** · **11.132.922 vi
 | 💼 **LinkedIn** — follow the maintainer    | [linkedin.com/in/diegosouzapw](https://www.linkedin.com/in/diegosouzapw/)                                                 |
 | 🐙 **GitHub** — follow for releases & tips | [@diegosouzapw](https://github.com/diegosouzapw)                                                                          |
 | 💬 **Discord**                             | [discord.gg/U47eFqAXCn](https://discord.gg/U47eFqAXCn)                                                                    |
-| ✈️ **Telegram**                            | [t.me/goatapiOficial](https://t.me/goatapiOficial)                                                                    |
+| ✈️ **Telegram**                            | [t.me/goatapiOficial](https://t.me/goatapiOficial)                                                                        |
 | 🟢 **WhatsApp — 🌍 Global**                | [join the group](https://chat.whatsapp.com/JI7cDQ1GyaiDHhVBpLxf8b?mode=gi_t)                                              |
 | 🟢 **WhatsApp — 🇧🇷 Brasil**                | [entrar no grupo](https://chat.whatsapp.com/LTSpdFhXTxjH4R6CCNiKWz)                                                       |
-| 🌍 **Website**                             | [goatapi.online](https://goatapi.online)                                                                              |
-| 📦 **Source code**                         | [github.com/diegosouzapw/GoatAPI](https://github.com/diegosouzapw/GoatAPI)                                            |
-| 🐛 **Report a bug**                        | [open an issue](https://github.com/diegosouzapw/GoatAPI/issues) — attach `npm run system-info` output                   |
+| 🌍 **Website**                             | [goatapi.online](https://goatapi.online)                                                                                  |
+| 📦 **Source code**                         | [github.com/diegosouzapw/GoatAPI](https://github.com/diegosouzapw/GoatAPI)                                                |
+| 🐛 **Report a bug**                        | [open an issue](https://github.com/diegosouzapw/GoatAPI/issues) — attach `npm run system-info` output                     |
 | 🤝 **Contribute**                          | [CONTRIBUTING.md](CONTRIBUTING.md) · [Branching & Release Model](docs/ops/BRANCHING_MODEL.md) · pick a `good first issue` |
-| 💚 **Support the project**                 | [Ways to support ↑](#-support-goatapi) · [GitHub Sponsors](https://github.com/sponsors/diegosouzapw)                    |
+| 💚 **Support the project**                 | [Ways to support ↑](#-support-goatapi) · [GitHub Sponsors](https://github.com/sponsors/diegosouzapw)                      |
 
 </div>
 
